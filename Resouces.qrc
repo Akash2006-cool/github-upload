@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/resouces">
+        <file>Icons/Copy.png</file>
+        <file>Icons/Cut.png</file>
+        <file>Icons/Save.png</file>
+        <file>Icons/New.png</file>
+        <file>Icons/Paste.png</file>
+        <file>Icons/SaveAs.png</file>
+        <file>Icons/About.png</file>
+        <file>Icons/Open.png</file>
+        <file>Icons/ExitFullScreen.png</file>
+        <file>Icons/FullScreen.png</file>
+        <file>Icons/Help.png</file>
+        <file>Icons/Redo.png</file>
+        <file>Icons/Undo.png</file>
+        <file>Icons/exit.png</file>
+        <file>Icons/MainLogo.png</file>
+        <file>Icons/refresh.gif</file>
+    </qresource>
+</RCC>
